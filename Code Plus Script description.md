@@ -34,16 +34,16 @@
 * `x_train, `y_train, `x_test, `y_test, `subject_train and `subject_test contain data from the downloaded files.
 * `x_data, `y_data and `subject_data merge the previous datasets to further analysis.
 * `features contains the correct names for the x_data dataset, which are applied to the column names stored in
-*'mrg_train, 'mrg_test-merging training data 
-*'setAllinOne-all data merged as one
-*'mean_and_std-mean-mean and STD columns 
-*'activityID-This is the activity numbered 1-6 as Stated by Walking, Sitting, etc as shown above. 
-*'subjectid-Id for each given data point 
-*'mean-mean 
-*'std-Standard deviation 
-*'setForMeanandStd-subsetting data for mean and deviation 
-*'SetwithAvtivityNames-subsetting data according to activitynames and mean and Stdv
-*'TidySet-Txt file that will come out of the script
+*`mrg_train, 'mrg_test-merging training data 
+*`setAllinOne-all data merged as one
+*`mean_and_std-mean-mean and STD columns 
+*`activityID-This is the activity numbered 1-6 as Stated by Walking, Sitting, etc as shown above. 
+*`subjectid-Id for each given data point 
+*`mean-mean 
+*`std-Standard deviation 
+*`setForMeanandStd-subsetting data for mean and deviation 
+*`SetwithAvtivityNames-subsetting data according to activitynames and mean and Stdv
+*`TidySet-Txt file that will come out of the script
 
 ###Measurements for the data 
 
